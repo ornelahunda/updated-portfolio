@@ -1,0 +1,24 @@
+{
+  "name": "updated-portfolio",
+  "version": "1.0.0",
+  "description": "Ornela's Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornelahunda/updated-portfolio.git"
+  },
+  "author": "ornela hunda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ornelahunda/updated-portfolio/issues"
+  },
+  "homepage": "https://github.com/ornelahunda/updated-portfolio#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}
