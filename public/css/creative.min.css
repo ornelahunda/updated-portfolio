@@ -60,7 +60,51 @@ header.masthead h1{font-size:3rem}}
   background-color: #2C3E50;
   color: #fff;
 }
-
 .copyright {
   background-color: #1a252f;
 }
+
+
+.social{ 
+  height:20px;
+}
+
+
+
+.list-group-item{ 
+  display: inline-block;
+  height:80px;
+  width:80px;
+  margin:10%;
+  float: left;
+}
+
+.social-icons {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #9dafb9;
+  /* margin-bottom: 0px; */
+}
+
+.icon{
+list-style-type: none;
+margin: 0;
+padding: 10px;
+overflow: hidden;
+height:100px;
+width:100px;
+}
+
+/* .list-group-item icon {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+} */
+
+.list-group-item img:hover {
+  background-color: #111111;
+} 
